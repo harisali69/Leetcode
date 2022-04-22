@@ -8,10 +8,10 @@
     var bought = 0.99 (float) --> 0.99 cents
 
     Output:
-    [1, 0, 0, 0, 0, 1]
+    [1, 0, 0, 0, 0, 4]
 
     Explanation:
-    Change would be 4.01 = (5.0 - 0.99) so we have to give him a $1 and 1cent
+    Change would be 4.01 = (5.0 - 0.99) so we have to give him a $4 and 1cent
 */
 
 /**
